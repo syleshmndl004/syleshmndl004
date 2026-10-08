@@ -169,7 +169,7 @@ status     : Building every day 💪
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sailesh%20Mandal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailesh-mandal-500426247/)
 [![Facebook](https://img.shields.io/badge/Facebook-Sailesh%20Mandal-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sailesh.mandal.152785)
 [![Instagram](https://img.shields.io/badge/Instagram-__saelesh__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__saelesh__/)
-[![Website](https://img.shields.io/badge/Website-saileshmandal.me-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saileshmandal.com.np/)
+[![Website](https://img.shields.io/badge/Website-saileshmandal.com.np-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saileshmandal.com.np/)
 
 </div>
 
